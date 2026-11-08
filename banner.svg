@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" role="img" aria-labelledby="t">
+<title id="t">Doha Mounazil, MSc in Data Analytics and AI: a scatter plot with a rising trend line</title>
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1E3550" stroke-width="1"/></pattern></defs>
+<style>.pt{opacity:0;animation:pop .5s ease-out forwards}@keyframes pop{to{opacity:1}}.ln{stroke-dasharray:820;stroke-dashoffset:820;animation:draw 2.4s 1.6s ease-out forwards}@keyframes draw{to{stroke-dashoffset:0}}.tag{opacity:0;animation:pop .6s 3.6s forwards}@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important}}</style>
+<rect width="1200" height="270" rx="16" fill="#0B1A2C"/><rect width="1200" height="270" rx="16" fill="url(#g)"/>
+<g transform="translate(660 30)">
+<path d="M0 210H500M0 210V0" stroke="#5B7290" stroke-width="2" fill="none"/>
+<text x="500" y="232" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8FA6C2">years of practice &#8594;</text>
+<text x="-10" y="0" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8FA6C2" transform="rotate(-90 -10 0)">skills</text>
+<g fill="#35C2C0"><circle class="pt" style="animation-delay:0.05s" cx="30" cy="182" r="6"/><circle class="pt" style="animation-delay:0.12s" cx="62" cy="190" r="6"/><circle class="pt" style="animation-delay:0.19s" cx="95" cy="160" r="6"/><circle class="pt" style="animation-delay:0.26s" cx="130" cy="168" r="6"/><circle class="pt" style="animation-delay:0.33s" cx="168" cy="140" r="6"/><circle class="pt" style="animation-delay:0.40s" cx="205" cy="148" r="6"/><circle class="pt" style="animation-delay:0.47s" cx="240" cy="118" r="6"/><circle class="pt" style="animation-delay:0.54s" cx="280" cy="124" r="6"/><circle class="pt" style="animation-delay:0.61s" cx="318" cy="96" r="6"/><circle class="pt" style="animation-delay:0.68s" cx="356" cy="102" r="6"/><circle class="pt" style="animation-delay:0.75s" cx="392" cy="70" r="6"/><circle class="pt" style="animation-delay:0.82s" cx="430" cy="78" r="6"/><circle class="pt" style="animation-delay:.9s" cx="468" cy="44" r="7" fill="#F2AE55"/></g>
+<path class="ln" d="M20 192L480 42" stroke="#F2AE55" stroke-width="3" fill="none" stroke-linecap="round"/>
+<text class="tag" x="470" y="26" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" fill="#F2AE55">MSc &#183; you are here</text>
+</g>
+<text x="56" y="112" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="700" font-size="54" fill="#E6EDF5">Doha Mounazil</text>
+<text x="58" y="152" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" fill="#35C2C0">MSc &#183; Data Analytics &amp; AI</text>
+<text x="58" y="188" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" fill="#8FA6C2">SELECT insight FROM data WHERE noise = 0;</text>
+</svg>
