@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Doha Mounazil, MSc in Data Analytics and AI: a scatter plot with a rising trend line">
+  <img src="./banner.svg" width="100%" alt="Doha Mounazil, MSc in Data Analytics and AI: a scatter plot with a rising trend line">
 </p>
 
 <p align="center">
@@ -32,13 +32,13 @@ doha = {
 ## How I got here
 
 <p align="center">
-  <img src="./assets/journey.svg" width="100%" alt="git log of my path: 2021 DUT in Computer Engineering at EST Safi; 2022 and 2023 web app internships; 2023 datacenter internship; 2024 IT support with SQL Server; 2024 Licence in Data Analytics and AI; now MSc at Ibn Zohr University">
+  <img src="./journey.svg" width="100%" alt="git log of my path: 2021 DUT in Computer Engineering at EST Safi; 2022 and 2023 web app internships; 2023 datacenter internship; 2024 IT support with SQL Server; 2024 Licence in Data Analytics and AI; now MSc at Ibn Zohr University">
 </p>
 
 ## Toolbox
 
 <p align="center">
-  <img src="./assets/toolbox.svg" width="100%" alt="Analytics and AI: Python, Power BI, pandas, NumPy, scikit-learn, Jupyter, Anaconda. Databases: SQL Server, MySQL, Oracle, Merise and UML. Development: Java, PHP, C and C++, Kotlin, HTML and CSS. Infrastructure: VMware ESXi, VirtualBox, Cisco Packet Tracer, VS Code.">
+  <img src="./toolbox.svg" width="100%" alt="Analytics and AI: Python, Power BI, pandas, NumPy, scikit-learn, Jupyter, Anaconda. Databases: SQL Server, MySQL, Oracle, Merise and UML. Development: Java, PHP, C and C++, Kotlin, HTML and CSS. Infrastructure: VMware ESXi, VirtualBox, Cisco Packet Tracer, VS Code.">
 </p>
 
 ## Projects
