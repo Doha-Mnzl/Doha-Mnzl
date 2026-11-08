@@ -1,0 +1,31 @@
+# Draws the contribution snake once a day and saves it to the "output" branch.
+name: Snake
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # every day at 03:17 UTC
+  workflow_dispatch:         # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#E8962E&color_dots=#EBEDF0,#9BE2DF,#4CC3C0,#0E8C8C,#0B4F6C
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#F2AE55&color_dots=#16263B,#0E5A5A,#138080,#1FA3A1,#35C2C0
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
